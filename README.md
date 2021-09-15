@@ -8,3 +8,8 @@ Behavior + LFP + LFP correlations
 Behavior + Spectrogram       
 
 ![](https://github.com/RobertoDF/vizs/blob/main/spectrogram.gif)  
+
+Spikes      
+
+![](https://github.com/RobertoDF/vizs/blob/main/spikes.gif)  
+
