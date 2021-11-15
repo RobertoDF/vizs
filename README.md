@@ -9,7 +9,5 @@ LFP explorer
 
 ![](https://github.com/RobertoDF/vizs/blob/main/lfp_explorer.gif)  
 
-Ripples explorer    
 
-![](https://github.com/RobertoDF/vizs/blob/main/Ripples_explorer.gif)  
 
