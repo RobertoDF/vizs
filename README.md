@@ -1,15 +1,15 @@
 # vizs
 
 
-Behavior + LFP + LFP correlations   
+LFP summary 
 
-![](https://github.com/RobertoDF/vizs/blob/main/LFP.gif)  
+![](https://github.com/RobertoDF/vizs/blob/main/lfp_summary.gif)  
 
-Behavior + Spectrogram       
+LFP explorer     
 
-![](https://github.com/RobertoDF/vizs/blob/main/spectrogram.gif)  
+![](https://github.com/RobertoDF/vizs/blob/main/lfp_explorergif)  
 
-Spikes      
+Ripples explorer    
 
-![](https://github.com/RobertoDF/vizs/blob/main/spikes.gif)  
+![](https://github.com/RobertoDF/vizs/blob/main/Ripples_explorer.gif)  
 
