@@ -7,7 +7,7 @@ LFP summary
 
 LFP explorer     
 
-![](https://github.com/RobertoDF/vizs/blob/main/lfp_explorergif)  
+![](https://github.com/RobertoDF/vizs/blob/main/lfp_explorer.gif)  
 
 Ripples explorer    
 
