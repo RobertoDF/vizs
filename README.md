@@ -1,5 +1,6 @@
 # vizs
 
+Tools for visualizations of big datasets based on Holoviz
 
 LFP summary 
 
