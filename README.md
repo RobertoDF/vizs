@@ -11,5 +11,13 @@ LFP explorer
 
 ![](https://github.com/RobertoDF/vizs/blob/main/lfp_explorer.gif)  
 
+LFP Spectrogram     
+
+![](https://github.com/RobertoDF/vizs/blob/main/spectogram.gif)  
+
+Spikes explorer     
+
+![](https://github.com/RobertoDF/vizs/blob/main/spikes_gif.gif)  
+
 
 
