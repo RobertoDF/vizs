@@ -13,11 +13,11 @@ LFP explorer
 
 LFP Spectrogram     
 
-![](https://github.com/RobertoDF/vizs/blob/main/spectogram.gif)  
+![](https://github.com/RobertoDF/vizs/blob/main/spectrogram.gif)  
 
 Spikes explorer     
 
-![](https://github.com/RobertoDF/vizs/blob/main/spikes_gif.gif)  
+![](https://github.com/RobertoDF/vizs/blob/main/spikes.gif)  
 
 
 
