@@ -1,3 +1,4 @@
+(Gifs reproduction slow because of Github)
 # vizs
 
 Tools for visualizations of big datasets based on Holoviz
